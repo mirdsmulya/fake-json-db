@@ -279,55 +279,6 @@
                 ]
               }
           ]
-        },
-        {
-          "id": "3453",
-          "name": "Desyana Putri",
-          "username": "mcmirdan",
-          "profilePicture": "https://media.suara.com/pictures/970x544/2019/08/18/23065-niki-zefanya.jpg",
-          "location": "Cimahi, West Java",
-          "biodate": "5 June 1994",
-          "post": [
-            {
-              "date": "12/3/2030",
-              "id": "ascasdfvf",
-              "content": "Life will guide you to nowhere if  you dont have any directon in your mind, keep pray and praise God SWT",
-              "comments": [
-                {
-                  "id": "asqxwqd",
-                  "time": "",
-                  "name": "Dani",
-                  "text": "Hi juga!"
-                },
-                {
-                  "id": "aqwqwsd",
-                  "time": "",
-                  "name": "Jordi",
-                  "text": "Ngaco woy"
-                }
-              ]
-            }
-          ],
-          "albums": [
-            {
-              "name": "Photos of 2019",
-              "id": "aasll",
-              "photos": [
-                {
-                  "date": "",
-                  "id": "ascecd",
-                  "title": "Jalan kenangan",
-                  "link":""
-                },
-                {
-                  "date": "",
-                  "id": "asqxwd",
-                  "title": "Jalan kenangan",
-                  "link":""
-                }
-              ]
-            }
-          ]
         }
       ]
     
